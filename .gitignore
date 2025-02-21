@@ -1,0 +1,6 @@
+godot_docs.txt
+chroma_db/
+*.o
+*.pyc
+__pycache__/
+godot_docs_retriever.egg-info/
